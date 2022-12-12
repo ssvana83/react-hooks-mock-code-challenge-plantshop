@@ -41,6 +41,72 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "orchid",
+      "image": "https://cdn.shopify.com/s/files/1/1009/2080/products/60178_D_1100x.jpg?v=1591844135",
+      "price": "25.00",
+      "id": 8
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "orchid",
+      "image": "https://cdn.shopify.com/s/files/1/1009/2080/products/60178_D_1100x.jpg?v=1591844135",
+      "price": "25.00",
+      "id": 9
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "orchid",
+      "image": "https://cdn.shopify.com/s/files/1/1009/2080/products/60178_D_1100x.jpg?v=1591844135",
+      "price": "25.00",
+      "id": 10
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "orchid",
+      "image": "https://cdn.shopify.com/s/files/1/1009/2080/products/60178_D_1100x.jpg?v=1591844135",
+      "price": "25.00",
+      "id": 11
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "hydrangea",
+      "image": "https://image.s5a.com/is/image/saks/0400016666380_BLUE?wid=984&hei=1312&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0",
+      "price": "15.00",
+      "id": 12
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "Calla Lily",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/P4007_LOL_preset_ftd-mx-hero-lv-new.jpeg?v=1660238915",
+      "price": "20.00",
+      "id": 13
     }
   ]
 }
